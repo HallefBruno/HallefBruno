@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me brunohallef@gmail.com
-- My main project: focus on beverage distributor management
-  <li>https://storedrinks.online/alldrinks</li>li>
+<ul> My main project: focus on beverage distributor management </ul>
+  <li>https://storedrinks.online/alldrinks</li>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
