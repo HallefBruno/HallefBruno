@@ -5,7 +5,7 @@
 - 📫 How to reach me brunohallef@gmail.com
 <li> 
   My main project: focus on beverage distributor management
-  <ul>https://storedrinks.online/alldrinks</ul>
+  <ul>https://storedrinks.shop/alldrinks</ul>
 </li>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
